@@ -34,7 +34,6 @@ def _impl(ctx):
 
     LINK_ACTIONS = [
         ACTION_NAMES.cpp_link_executable,
-        ACTION_NAMES.cpp_link_static_library,
     ]
     
     link_static_no_stdlib = feature(
