@@ -1,0 +1,1 @@
+register_toolchains("//toolchain:riscv64_bare_metal_toolchain_from_linux_x86_64")
