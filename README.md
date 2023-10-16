@@ -2,7 +2,7 @@
 
 This repository illustrates how to cross-compile C/C++ programs with Bazel through the toolchain and platforms mechanism. The concrete example used is building for bare metal RISC-V machine.
 
-**This repo is meant to accompany the article at http://popovicu.com/posts/cross-compiling-c-in-bazel-for-bare-metal-riscv**
+**This repo is meant to accompany the article at http://popovicu.com/posts/cross-compiling-c-with-bazel**
 
 ## Hermeticity
 
